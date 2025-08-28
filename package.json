@@ -1,0 +1,15 @@
+{
+  "name": "abc-xyz-api",
+  "version": "1.0.0",
+  "description": "A mock API for ABC-XYZ inventory classification demo",
+  "main": "db.json",
+  "scripts": {
+    "start": "json-server --watch db.json --port $PORT"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  },
+  "keywords": ["inventory", "abc", "xyz", "mockapi"],
+  "author": "Your Name",
+  "license": "MIT"
+}
