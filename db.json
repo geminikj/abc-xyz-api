@@ -1,0 +1,452 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1027",
+      "AnnualForecast": 1484.447,
+      "ABC_Class": "A",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "AX"
+    },
+    {
+      "id": 2,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1032",
+      "AnnualForecast": 448.1905,
+      "ABC_Class": "A",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "AX"
+    },
+    {
+      "id": 3,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1015",
+      "AnnualForecast": 400.422,
+      "ABC_Class": "A",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "AY"
+    },
+    {
+      "id": 4,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1019",
+      "AnnualForecast": 381.7675,
+      "ABC_Class": "A",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "AY"
+    },
+    {
+      "id": 5,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1048",
+      "AnnualForecast": 330.4902,
+      "ABC_Class": "A",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "AZ"
+    },
+    {
+      "id": 6,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1033",
+      "AnnualForecast": 298.6002,
+      "ABC_Class": "A",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "AZ"
+    },
+    {
+      "id": 7,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1001",
+      "AnnualForecast": 294.3169,
+      "ABC_Class": "A",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "AZ"
+    },
+    {
+      "id": 8,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1012",
+      "AnnualForecast": 558.7371,
+      "ABC_Class": "B",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "BX"
+    },
+    {
+      "id": 9,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1021",
+      "AnnualForecast": 269.4504,
+      "ABC_Class": "B",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "BX"
+    },
+    {
+      "id": 10,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1005",
+      "AnnualForecast": 264.3091,
+      "ABC_Class": "B",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "BX"
+    },
+    {
+      "id": 11,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1037",
+      "AnnualForecast": 273.3891,
+      "ABC_Class": "B",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "BY"
+    },
+    {
+      "id": 12,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1038",
+      "AnnualForecast": 196.5822,
+      "ABC_Class": "B",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "BY"
+    },
+    {
+      "id": 13,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1030",
+      "AnnualForecast": 201.4062,
+      "ABC_Class": "B",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "BZ"
+    },
+    {
+      "id": 14,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1004",
+      "AnnualForecast": 186.7472,
+      "ABC_Class": "B",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "BZ"
+    },
+    {
+      "id": 15,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1039",
+      "AnnualForecast": 186.6855,
+      "ABC_Class": "B",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "BZ"
+    },
+    {
+      "id": 16,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1031",
+      "AnnualForecast": 207.3243,
+      "ABC_Class": "B",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "BZ"
+    },
+    {
+      "id": 17,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1040",
+      "AnnualForecast": 164.6377,
+      "ABC_Class": "C",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "CX"
+    },
+    {
+      "id": 18,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1008",
+      "AnnualForecast": 160.0896,
+      "ABC_Class": "C",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "CX"
+    },
+    {
+      "id": 19,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1050",
+      "AnnualForecast": 147.2144,
+      "ABC_Class": "C",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "CX"
+    },
+    {
+      "id": 20,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1016",
+      "AnnualForecast": 146.4657,
+      "ABC_Class": "C",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "CX"
+    },
+    {
+      "id": 21,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1036",
+      "AnnualForecast": 146.2526,
+      "ABC_Class": "C",
+      "XYZ_Class": "X",
+      "ABC_XYZ": "CX"
+    },
+    {
+      "id": 22,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1022",
+      "AnnualForecast": 149.5763,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 23,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1007",
+      "AnnualForecast": 135.4355,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 24,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1043",
+      "AnnualForecast": 134.7955,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 25,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1002",
+      "AnnualForecast": 128.0531,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 26,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1009",
+      "AnnualForecast": 122.0344,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 27,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1020",
+      "AnnualForecast": 122.9675,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 28,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1049",
+      "AnnualForecast": 115.7327,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 29,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1006",
+      "AnnualForecast": 118.037,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 30,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1017",
+      "AnnualForecast": 237.6395,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 31,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1042",
+      "AnnualForecast": 99.0064,
+      "ABC_Class": "C",
+      "XYZ_Class": "Y",
+      "ABC_XYZ": "CY"
+    },
+    {
+      "id": 32,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1010",
+      "AnnualForecast": 99.012,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 33,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1014",
+      "AnnualForecast": 82.5685,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 34,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1013",
+      "AnnualForecast": 85.7125,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 35,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1026",
+      "AnnualForecast": 80.7048,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 36,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1045",
+      "AnnualForecast": 76.7835,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 37,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1028",
+      "AnnualForecast": 66.3426,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 38,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1046",
+      "AnnualForecast": 55.9772,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 39,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1011",
+      "AnnualForecast": 63.5806,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 40,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1044",
+      "AnnualForecast": 63.7477,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 41,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1025",
+      "AnnualForecast": 101.9983,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 42,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1003",
+      "AnnualForecast": 74.9706,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 43,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1041",
+      "AnnualForecast": 70.7257,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 44,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1029",
+      "AnnualForecast": 39.4138,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 45,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1023",
+      "AnnualForecast": 59.7773,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 46,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1024",
+      "AnnualForecast": 141.871,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 47,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1034",
+      "AnnualForecast": 180.7056,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    },
+    {
+      "id": 48,
+      "Item": "ITM12623-1013",
+      "Location": "STR-1018",
+      "AnnualForecast": 4.1985,
+      "ABC_Class": "C",
+      "XYZ_Class": "Z",
+      "ABC_XYZ": "CZ"
+    }
+  ],
+  "summary": {
+    "item": "ITM12623-1013",
+    "totalLocations": 48,
+    "totalForecast": 10483.2,
+    "classificationCounts": {
+      "AX": 2,
+      "AY": 2,
+      "AZ": 3,
+      "BX": 3,
+      "BY": 2,
+      "BZ": 4,
+      "CX": 5,
+      "CY": 10,
+      "CZ": 17
+    }
+  }
+}
